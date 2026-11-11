@@ -58,13 +58,13 @@ In the areas hit by the 2025 Los Angeles fires, Malibu (6.5%) and Pacific Palisa
 
 **Files**
 
-- `notebooks/1_cdi_nonrenewals.ipynb`: loads and compares the two CDI files, calculates non-renewal rates
-- `notebooks/2_zip_boundaries.ipynb`: loads Census ZIP code and county boundaries, keeps California, reprojects
-- `notebooks/3_firehazard_overlay.ipynb`: combines the hazard zones and calculates each ZIP code's hazard share
-- `notebooks/4_nonrenewals_byhazard.ipynb`: assigns hazard tiers, calculates rates by tier and year, makes the main chart
-- `notebooks/5_maps.ipynb`: makes the static maps and the interactive map
-- `data/clean/`: cleaned CSV outputs
-- `images/`: charts and maps used in this README
+- `1_cdi_nonrenewals.ipynb`: loads and compares the two CDI files, calculates non-renewal rates
+- `2_zip_boundaries.ipynb`: loads Census ZIP code and county boundaries, keeps California, reprojects
+- `3_firehazard_overlay.ipynb`: combines the hazard zones and calculates each ZIP code's hazard share
+- `4_nonrenewals_byhazard.ipynb`: assigns hazard tiers, calculates rates by tier and year, makes the main chart
+- `5_maps.ipynb`: makes the static maps and the interactive map
+- `clean`: cleaned CSV outputs
+- `insurer_rate_map.pg, hazard_share_map.png, ...` images
 - `wildfire_map.html`: the interactive map
 - `README.md`: this page
 
