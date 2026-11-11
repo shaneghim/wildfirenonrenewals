@@ -4,7 +4,7 @@ This project looks at whether insurers in California are dropping homeowners mor
 
 [View the interactive map](https://shaneghim.github.io/wildfirenonrenewals/wildfire_map.html)
 
-![Non-renewal rates by hazard tier](images/nonrenewal_by_tier.png)
+![Non-renewal rates by hazard tier](nonrenewal_by_tier.png)
 
 **Data**
 
