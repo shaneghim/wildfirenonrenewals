@@ -32,11 +32,11 @@ I grouped ZIP codes into Low (under 10%), Moderate (10% to 50%), and High (50% a
 
 **Maps**
 
-<p><img src="images/hazard_share_map.png" width="49%"/> <img src="images/insurer_rate_map.png" width="49%"/></p>
+<p><img src="/hazard_share_map.png" width="49%"/> <img src="insurer_rate_map.png" width="49%"/></p>
 
 The darkest non-renewal areas line up with the highest hazard areas, along the Sierra foothills and the Southern California mountains. Grey ZIP codes had fewer than 300 policies up for renewal from 2019 to 2021, and white areas have no ZIP code shape (mostly desert and national forest).
 
-![Los Angeles close-up](images/insurer_rate_map_la.png)
+![Los Angeles close-up](insurer_rate_map_la.png)
 
 I included an LA close-up since it covers the 2025 Palisades and Eaton fire areas.
 
