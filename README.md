@@ -1,6 +1,6 @@
 # California Wildfire Hazard and Home Insurance Non-Renewals: Python and GIS
 
-This project looks at whether insurers in California are dropping homeowners more often in places with a higher wildfire hazard. I combined the California Department of Insurance's ZIP-level non-renewal counts with CAL FIRE's Fire Hazard Severity Zones, measured each ZIP code's share of high-hazard land with GIS in Python, and compared non-renewal rates across hazard levels from 2015 to 2023.
+This project looks at whether insurers in California are dropping homeowners more often in places with a higher wildfire hazard.
 
 [View the interactive map](https://shaneghim.github.io/wildfirenonrenewals/wildfire_map.html)
 
@@ -9,6 +9,8 @@ This project looks at whether insurers in California are dropping homeowners mor
 **Data**
 
 I retrieved the [CDI residential policy counts by ZIP code](https://www.insurance.ca.gov/01-consumers/200-wrr/DataAnalysisOnWildfiresAndInsurance.cfm), which contained new, renewed, and non-renewed homeowners policies in the voluntary market, in two separate files (2015 to 2021 and 2020 to 2023). For the fire hazard zones, I used CAL FIRE's [Fire Hazard Severity Zones](https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones), which come as State Responsibility Area (SRA) maps (effective April 2024) and Local Responsibility Area (LRA) maps (March 2025). To map the ZIP codes, I used the [Census 2020 cartographic boundary files](https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html) for ZIP Code Tabulation Areas and counties.
+
+I combined the California Department of Insurance's ZIP-level non-renewal counts with CAL FIRE's Fire Hazard Severity Zones, measured each ZIP code's share of high-hazard land with GIS in Python, and compared non-renewal rates across hazard levels from 2015 to 2023.
 
 <ins>Terminology</ins>
 
