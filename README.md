@@ -2,7 +2,7 @@
 
 This project looks at whether insurers in California are dropping homeowners more often in places with a higher wildfire hazard. I combined the California Department of Insurance's ZIP-level non-renewal counts with CAL FIRE's Fire Hazard Severity Zones, measured each ZIP code's share of high-hazard land with GIS in Python, and compared non-renewal rates across hazard levels from 2015 to 2023.
 
-[View the interactive map](https://shaneghim.github.io/wildfirenonrenewals/images/wildfire_map.html)
+[View the interactive map](https://shaneghim.github.io/wildfirenonrenewals/wildfire_map.html)
 
 ![Non-renewal rates by hazard tier](images/nonrenewal_by_tier.png)
 
