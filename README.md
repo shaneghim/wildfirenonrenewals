@@ -1,3 +1,5 @@
+<a href="https://shaneghim.github.io/" style="display:inline-block;padding:4px 12px;border:1px solid #d6dbe1;border-radius:999px;font-family:Helvetica,Arial,sans-serif;font-size:0.85rem;color:#1f4e79;text-decoration:none;background:#fff;">&larr; All projects</a>
+
 # California Wildfire Hazard and Home Insurance Non-Renewals: Python and GIS
 
 This project looks at whether insurers in California are dropping homeowners more often in places with a higher wildfire hazard.
