@@ -1,0 +1,7 @@
+title: "California Wildfire Hazard and Home Insurance Non-Renewals: Python and GIS"
+theme: jekyll-theme-primer
+defaults:
+  - scope:
+      path: ""
+    values:
+      title: "California Wildfire Hazard and Home Insurance Non-Renewals: Python and GIS"
