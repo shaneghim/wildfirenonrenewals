@@ -2,7 +2,7 @@
 
 # California Wildfire Hazard and Home Insurance Non-Renewals: Python and GIS
 
-This project looks at whether insurers in California are dropping homeowners more often in places with a higher wildfire hazard
+This project looks at whether insurers in California are dropping homeowners more often in places with a higher wildfire hazard.
 
 [View the interactive map](https://shaneghim.github.io/wildfirenonrenewals/wildfire_map.html)
 
