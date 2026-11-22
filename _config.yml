@@ -1,7 +1,2 @@
-title: "California Wildfire Hazard and Home Insurance Non-Renewals: Python and GIS"
-theme: jekyll-theme-primer
-defaults:
-  - scope:
-      path: ""
-    values:
-      title: "California Wildfire Hazard and Home Insurance Non-Renewals: Python and GIS"
+title: Auto Insurance Loss Trend Monitor
+description: Are auto insurance premiums keeping up with claim costs?
