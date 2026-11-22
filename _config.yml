@@ -1,2 +1,7 @@
-title: Auto Insurance Loss Trend Monitor
-description: Are auto insurance premiums keeping up with claim costs?
+title: "California Wildfire Non-Renewal Analysis"
+theme: jekyll-theme-primer
+defaults:
+  - scope:
+      path: ""
+    values:
+      title: "California Wildfire Non-Renewal Analysis"
